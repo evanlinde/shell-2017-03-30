@@ -32,3 +32,6 @@ exit
 echo $PROMPT_COMMAND
 ls -h
 ls -1h
+exit
+ls
+echo $PROMPT_COMMAND
