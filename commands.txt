@@ -1,1 +1,5 @@
   501  exit
+  502  ls
+  503  whoami
+  504  pwd
+  505  date

@@ -1,2 +1,41 @@
 Restored session: Thu Mar 30 14:28:20 CDT 2017
-[?1034h$ 
+[?1034h$ ls
+2016-11-29_17-01-01.jpg
+[34m2048[39;49m[0m
+ACI-REF_Project.odp
+[34mC[39;49m[0m
+[34mCloud[39;49m[0m
+[35mLauncher.app[39;49m[0m
+[34mTC2_C[39;49m[0m
+[34mTC3_C[39;49m[0m
+Untitled 2.rtf
+Untitled.kmz
+Untitled.rtf
+WirelessDiagnostics_C02PP0UTFVH6_2015-06-10_19.39.06.tar.gz
+aci-ref_project.rtf
+acronyms.rtf
+[34mcacti[39;49m[0m
+[34mcolors[39;49m[0m
+[34mdc_2016-07-25[39;49m[0m
+ford-versypt.rtf
+[34mipad[39;49m[0m
+[34mpages-test[39;49m[0m
+[34mpictures[39;49m[0m
+[34mplanets[39;49m[0m
+script.pipe
+script.txt
+setup_ssh_key.sh
+[34mshell-2017-03-30[39;49m[0m
+[34mshell-transcript[39;49m[0m
+[34mswc20151210[39;49m[0m
+[34mswc20160314[39;49m[0m
+[34mswc_2016-05-23[39;49m[0m
+[34mswc_2017-01-03[39;49m[0m
+urls.rtf
+$ whoami
+elinde
+$ pwd
+/Users/elinde/Desktop
+$ date
+Thu Mar 30 15:13:05 CDT 2017
+$ 
