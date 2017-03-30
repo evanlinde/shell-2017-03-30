@@ -44,3 +44,5 @@ exit
 ls
 echo "on windows"
 echo $PROMPT_COMMAND
+exit
+date
