@@ -14,3 +14,7 @@
   514  history 2 | gsed 's/^\ *[0-9]+\ \+//'
 exit
 exit
+ls
+pwd
+whoami
+date
