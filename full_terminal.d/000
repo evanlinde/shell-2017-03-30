@@ -14,4 +14,7 @@ osu.txt                                 test-envisionEnvisionStartup.log
 pete.cmd                                [01;32mwdksetup.exe[0m
 pete.txt                                [01;34mwinscp[0m
 [01;34mproteowizard-3.0.9283_x86-64[0m
-$ cd 2[K[K[K[Kecho $PROMPT_COMMA
+$ cd 2[K[K[K[Kecho $PROMPT_COMMAND
+history 1 | sed -E 's/^\ *[0-9]+\ +//' >> /c/users/elinde/Desktop/shell-2017-03-30/commands.txt
+$ exit
+exit
