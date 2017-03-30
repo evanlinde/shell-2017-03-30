@@ -46,3 +46,4 @@ echo "on windows"
 echo $PROMPT_COMMAND
 exit
 date
+date
