@@ -28,3 +28,4 @@ whoami
 ls -F
 ls -lh
 date
+exit
