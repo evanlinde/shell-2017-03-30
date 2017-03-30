@@ -30,3 +30,5 @@ ls -lh
 date
 exit
 echo $PROMPT_COMMAND
+ls -h
+ls -1h

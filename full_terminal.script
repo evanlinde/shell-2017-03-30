@@ -167,4 +167,21 @@ Thu Mar 30 16:00:35 CDT 2017
 ]0;elinde@30YVT12: ~/shell-2017-03-30elinde@30YVT12:~/shell-2017-03-30$ Script started on Thu 30 Mar 2017 04:04:18 PM CDT
 $ echo $PROMPT_COMMAND
 history 1 | sed -E 's/^\ *[0-9]+\ +//' >> /home/elinde/shell-2017-03-30/commands.txt
+$ ls -h
+[0m[01;32mansi2html.sh[0m  full_terminal.html    make_html.sh      short_prompt.bashrc
+[01;32mauto_push.sh[0m  full_terminal.script  readme.md         start_transcript.sh
+commands.txt  index.html            setup_ssh_key.sh  transcript.bashrc
+$ ls -h1h
+[0m[01;32mansi2html.sh[0m
+[01;32mauto_push.sh[0m
+commands.txt
+full_terminal.html
+full_terminal.script
+index.html
+make_html.sh
+readme.md
+setup_ssh_key.sh
+short_prompt.bashrc
+start_transcript.sh
+transcript.bashrc
 $ 
