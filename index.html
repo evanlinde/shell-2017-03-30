@@ -22,12 +22,14 @@ $(document).ready(function(){
         cache: false
     });
 
+    $("#full_terminal").height($(document).height()-$('#header').height());
     $("#full_terminal").load("full_terminal.html");
     //$("#commands").load("commands.txt");
     $("#commands_div").hide();
 
     $("#nav_terminal").click(function(){
         $("#commands_div").hide();
+	$("#full_terminal").height($(document).height()-$('#header').height());
         $("#full_terminal").load("full_terminal.html");
         $("#full_terminal").show();
 	$("#full_terminal").scrollTop($("#full_terminal")[0].scrollHeight);
@@ -35,14 +37,15 @@ $(document).ready(function(){
 
     $("#nav_commands").click(function(){
         $("#full_terminal").hide();
+        $("#commands_div").height($(document).height()-$('#header').height());
         $("#commands").load("commands.txt");
-        $("#commands").show();
+        $("#commands_div").show();
     });
 });
   </script>
 </head>
 <body>
-  <header>
+  <header id="header">
     <nav>
       <button class="button" id="nav_terminal">Full Terminal</button> <button class="button" id="nav_commands">Commands</button>
     </nav>
