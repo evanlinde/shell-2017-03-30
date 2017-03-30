@@ -52,3 +52,5 @@ ls -l
 exit
 date
 ls -lha
+exit
+date
