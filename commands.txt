@@ -35,3 +35,8 @@ ls -1h
 exit
 ls
 echo $PROMPT_COMMAND
+exit
+ls
+date
+whoami
+pwd

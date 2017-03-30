@@ -1,0 +1,34 @@
+]0;MINGW64:/c/users/elinde/Desktop
+[32melinde@hpc-cloud-okey5 [35mMINGW64 [33m/c/users/elinde/Desktop[36m[0m
+$ ls
+[0m[01;34m2017-03-27[0m                              QGISPISA.PTH
+desktop.ini                             R_lidar_workspace.RData
+dns_search_domains.cmd                  [01;32msetup_ssh_key.sh[0m
+[01;32mHEC-RAS_503_Without_Examples_Setup.exe[0m  Setup-x64.msi
+it-labs.lic                             [01;34mshapefile_split[0m
+[01;34mLAStools[0m                                [01;34mshell-2017-03-30[0m
+mintty.log                              test.cmd
+MPI-ESM-LR_hist_BCQM_pr.tif             test2.cmd
+MPI-ESM-LR_hist_BCQM_pr.tif.aux.xml     test2.txt
+ostate.txt                              [01;34mtest-envision[0m
+osu.txt                                 test-envisionEnvisionStartup.log
+[01;32mParaView-4.4.0-Qt4-Windows-64bit.exe[0m    [01;32mvcredist_x64.exe[0m
+pete.cmd                                [01;32mwdksetup.exe[0m
+pete.txt                                [01;34mwinscp[0m
+[01;34mproteowizard-3.0.9283_x86-64[0m
+]0;MINGW64:/c/users/elinde/Desktop
+[32melinde@hpc-cloud-okey5 [35mMINGW64 [33m/c/users/elinde/Desktop[36m[0m
+$ date
+Thu, Mar 30, 2017  4:10:26 PM
+]0;MINGW64:/c/users/elinde/Desktop
+[32melinde@hpc-cloud-okey5 [35mMINGW64 [33m/c/users/elinde/Desktop[36m[0m
+$ whoami
+elinde
+]0;MINGW64:/c/users/elinde/Desktop
+[32melinde@hpc-cloud-okey5 [35mMINGW64 [33m/c/users/elinde/Desktop[36m[0m
+$ pwd
+/c/users/elinde/Desktop
+]0;MINGW64:/c/users/elinde/Desktop
+[32melinde@hpc-cloud-okey5 [35mMINGW64 [33m/c/users/elinde/Desktop[36m[0m
+$ exit
+exit
