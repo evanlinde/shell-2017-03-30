@@ -30,6 +30,7 @@ $(document).ready(function(){
         $("#commands").hide();
         $("#full_terminal").load("full_terminal.html");
         $("#full_terminal").show();
+	$("#full_terminal").scrollTop($("#full_terminal")[0].scrollHeight);
     });
 
     $("#nav_commands").click(function(){
@@ -46,7 +47,7 @@ $(document).ready(function(){
       <button class="button" id="nav_terminal">Full Terminal</button> <button class="button" id="nav_commands">Commands</button>
     </nav>
   </header>
-  <div id="full_terminal"></div>
-  <div id="commands_div"><pre id="commands"></pre></div>
+  <div id="full_terminal" style="overflow:scroll;height:80%;"></div>
+  <div id="commands_div" style="overflow:scroll;height:80%;"><pre id="commands"></pre></div>
 </body>
 </html>
