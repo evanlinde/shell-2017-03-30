@@ -3,3 +3,4 @@
   503  whoami
   504  pwd
   505  date
+  506  echo $PROMPT_COMMAND
