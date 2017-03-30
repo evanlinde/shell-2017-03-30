@@ -29,3 +29,4 @@ ls -F
 ls -lh
 date
 exit
+echo $PROMPT_COMMAND
