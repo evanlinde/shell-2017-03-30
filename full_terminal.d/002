@@ -22,4 +22,8 @@ $ echo "on windows"
 on windows
 ]0;MINGW64:/c/users/elinde/Desktop
 [32melinde@hpc-cloud-okey5 [35mMINGW64 [33m/c/users/elinde/Desktop[36m[0m
+$ echo $PROMPT_COMMAND
+history 1 | sed -E 's/^\ *[0-9]+\ +//' >> /c/users/elinde/Desktop/shell-2017-03-30/commands.txt
+]0;MINGW64:/c/users/elinde/Desktop
+[32melinde@hpc-cloud-okey5 [35mMINGW64 [33m/c/users/elinde/Desktop[36m[0m
 $ 
