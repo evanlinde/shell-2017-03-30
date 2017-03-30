@@ -47,3 +47,5 @@ echo $PROMPT_COMMAND
 exit
 date
 date
+exit
+ls -l
