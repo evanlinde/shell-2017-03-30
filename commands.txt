@@ -54,3 +54,5 @@ date
 ls -lha
 exit
 date
+exit
+date
