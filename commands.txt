@@ -42,3 +42,4 @@ whoami
 pwd
 exit
 ls
+echo "on windows"
