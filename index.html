@@ -22,12 +22,12 @@ $(document).ready(function(){
         cache: false
     });
 
-    $("#commands").hide();
     $("#full_terminal").load("full_terminal.html");
     //$("#commands").load("commands.txt");
+    $("#commands_div").hide();
 
     $("#nav_terminal").click(function(){
-        $("#commands").hide();
+        $("#commands_div").hide();
         $("#full_terminal").load("full_terminal.html");
         $("#full_terminal").show();
 	$("#full_terminal").scrollTop($("#full_terminal")[0].scrollHeight);
