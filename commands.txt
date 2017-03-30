@@ -23,3 +23,5 @@ exit
 ls
 uname -a
 exit
+pwd
+whoami
