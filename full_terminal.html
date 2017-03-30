@@ -337,6 +337,14 @@ Thu Mar 30 15:13:05 CDT 2017
 $ echo $PROMPT_COMMAND                                                         
 history 1 | sed 's/^\ *[0-9]\+\ \+//' &gt;&gt; /Users/elinde/Desktop/shell-2017-03-30/commands.txt
 $ history 1 | sed 's/^\ *[0-9]\+\ \+//'
+  507  history 1 | sed 's/^\ *[0-9]\+\ \+//'
+$ history 2| sed 's/^\ *[0-9]\+\ \+//'
+  507  history 1 | sed 's/^\ *[0-9]\+\ \+//'
+  508  history 2 | sed 's/^\ *[0-9]\+\ \+//'
+$ history 2 | sed 's/^\ *[0-9]+\ \+//'
+  508  history 2 | sed 's/^\ *[0-9]\+\ \+//'
+  509  history 2 | sed 's/^\ *[0-9]+\ \+//'
+$ history 2 | sed 's/^\ *[0-9]+\ \+//'
 </pre>
 </body>
 </html>
