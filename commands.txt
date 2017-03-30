@@ -13,3 +13,4 @@
   513  history 2 | gsed -e 's/^\ *[0-9]+\ \+//'
   514  history 2 | gsed 's/^\ *[0-9]+\ \+//'
 exit
+exit
