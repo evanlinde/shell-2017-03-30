@@ -22,3 +22,4 @@ tail shell-2017-03-30/full_terminal.html
 exit
 ls
 uname -a
+exit
