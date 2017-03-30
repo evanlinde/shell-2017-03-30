@@ -114,4 +114,15 @@ c02pp0utfvh6:Desktop elinde$ whoami
 elinde
 c02pp0utfvh6:Desktop elinde$ date
 Thu Mar 30 15:31:02 CDT 2017
+c02pp0utfvh6:Desktop elinde$ tail shell-2017-03-30/full_terminal.html 
+c02pp0utfvh6:Desktop elinde$ pwd                                                            
+/Users/elinde/Desktop
+c02pp0utfvh6:Desktop elinde$ whoami
+elinde
+c02pp0utfvh6:Desktop elinde$ date
+Thu Mar 30 15:31:02 CDT 2017
 c02pp0utfvh6:Desktop elinde$ tail s
+</pre>
+</body>
+</html>
+c02pp0utfvh6:Desktop elinde$ 
