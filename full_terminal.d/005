@@ -1,0 +1,42 @@
+]0;MINGW64:/c/users/elinde/Desktop
+[32melinde@hpc-cloud-okey5 [35mMINGW64 [33m/c/users/elinde/Desktop[36m[0m
+$ date
+Thu, Mar 30, 2017  5:12:14 PM
+]0;MINGW64:/c/users/elinde/Desktop
+[32melinde@hpc-cloud-okey5 [35mMINGW64 [33m/c/users/elinde/Desktop[36m[0m
+$ ls -lha
+total 2.2G
+drwxr-xr-x 1 elinde 1049089    0 Mar 30 16:08 [0m[01;34m.[0m
+drwxr-xr-x 1 elinde 1049089    0 Mar 14 09:12 [01;34m..[0m
+drwxr-xr-x 1 elinde 1049089    0 Mar 27 19:20 [01;34m2017-03-27[0m
+-rw-r--r-- 1 elinde 1049089  282 Feb 10 11:21 desktop.ini
+-rw-r--r-- 1 elinde 1049089  212 Jul  8  2015 dns_search_domains.cmd
+-rwxr-xr-x 1 elinde 1049089 215M Jan 12 13:22 [01;32mHEC-RAS_503_Without_Examples_Setup.exe[0m
+-rw-r--r-- 1 elinde 1049089   62 Aug 28  2015 it-labs.lic
+drwxr-xr-x 1 elinde 1049089    0 Dec 18  2015 [01;34mLAStools[0m
+-rw-r--r-- 1 elinde 1049089  208 Mar 27 18:42 mintty.log
+-rw-r--r-- 1 elinde 1049089 1.7G Jun 16  2016 MPI-ESM-LR_hist_BCQM_pr.tif
+-rw-r--r-- 1 elinde 1049089 7.3M Jun 16  2016 MPI-ESM-LR_hist_BCQM_pr.tif.aux.xml
+-rw-r--r-- 1 elinde 1049089  506 Jul  7  2015 ostate.txt
+-rw-r--r-- 1 elinde 1049089  297 Jul  7  2015 osu.txt
+-rwxr-xr-x 1 elinde 1049089 237M Mar  7  2016 [01;32mParaView-4.4.0-Qt4-Windows-64bit.exe[0m
+-rw-r--r-- 1 elinde 1049089 1.3K Jul  7  2015 pete.cmd
+-rw-r--r-- 1 elinde 1049089 1.3K Jul  7  2015 pete.txt
+drwxr-xr-x 1 elinde 1049089    0 Jan 22  2016 [01;34mproteowizard-3.0.9283_x86-64[0m
+-rw-r--r-- 1 elinde 1049089  183 Aug 31  2016 QGISPISA.PTH
+-rw-r--r-- 1 elinde 1049089 2.7K Oct 12  2015 R_lidar_workspace.RData
+-rwxr-xr-x 1 elinde 1049089  659 Mar 27 17:41 [01;32msetup_ssh_key.sh[0m
+-rw-r--r-- 1 elinde 1049089  32M Apr 28  2016 Setup-x64.msi
+drwxr-xr-x 1 elinde 1049089    0 Feb 15 14:13 [01;34mshapefile_split[0m
+drwxr-xr-x 1 elinde 1049089    0 Mar 30 17:12 [01;34mshell-2017-03-30[0m
+-rw-r--r-- 1 elinde 1049089  574 Jul  7  2015 test.cmd
+-rw-r--r-- 1 elinde 1049089  398 Nov 10  2015 test2.cmd
+-rw-r--r-- 1 elinde 1049089  961 Nov 10  2015 test2.txt
+drwxr-xr-x 1 elinde 1049089    0 Apr 20  2016 [01;34mtest-envision[0m
+-rw-r--r-- 1 elinde 1049089   30 Apr 20  2016 test-envisionEnvisionStartup.log
+-rwxr-xr-x 1 elinde 1049089 6.9M Jan 22  2016 [01;32mvcredist_x64.exe[0m
+-rwxr-xr-x 1 elinde 1049089 969K Nov 13  2015 [01;32mwdksetup.exe[0m
+drwxr-xr-x 1 elinde 1049089    0 Nov  6  2015 [01;34mwinscp[0m
+]0;MINGW64:/c/users/elinde/Desktop
+[32melinde@hpc-cloud-okey5 [35mMINGW64 [33m/c/users/elinde/Desktop[36m[0m
+$ 
