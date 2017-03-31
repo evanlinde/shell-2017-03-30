@@ -22,7 +22,7 @@ $(document).ready(function(){
         cache: false
     });
 
-    $("#full_terminal").height($(document).height()-$('#header').height());
+    $("#full_terminal").height($(document).height()-$('#header').height()-getScrollBarWidth());
     $("#full_terminal").load("full_terminal.html");
     //$("#commands").load("commands.txt");
     $("#commands_div").hide();
@@ -40,6 +40,7 @@ $(document).ready(function(){
         $("#commands_div").height($(document).height()-$('#header').height());
         $("#commands").load("commands.txt");
         $("#commands_div").show();
+	$("#commands_div").scrollTop($("#commands_div")[0].scrollHeight);
     });
 });
   </script>
