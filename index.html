@@ -22,7 +22,7 @@ $(document).ready(function(){
         cache: false
     });
 
-    $("#full_terminal").height($(document).height()-$('#header').height()-getScrollBarWidth());
+    $("#full_terminal").height($(document).height()-$('#header').height());
     $("#full_terminal").load("full_terminal.html");
     //$("#commands").load("commands.txt");
     $("#commands_div").hide();
