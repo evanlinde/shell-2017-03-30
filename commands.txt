@@ -57,3 +57,5 @@ date
 exit
 date
 exit
+exit
+date
