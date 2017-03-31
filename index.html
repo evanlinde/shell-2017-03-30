@@ -22,13 +22,13 @@ $(document).ready(function(){
         cache: false
     });
 
-    $(document).show_full_terminal = function() {
+    $.fn.show_full_terminal = function() {
         $("#commands_div").hide();
 	$("#full_terminal").height($(document).height()-$('#header').height()-20);
         $("#full_terminal").load("full_terminal.html");
         $("#full_terminal").show();
 	$("#full_terminal").scrollTop($("#full_terminal")[0].scrollHeight);
-    };
+    }
 
     $("#full_terminal").height($(document).height()-$('#header').height()-20);
     $("#full_terminal").load("full_terminal.html");
